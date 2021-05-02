@@ -1,6 +1,6 @@
-"# 15-React-Projects" 
-This has 15 projects made by following a video by John.
-This react apps are:
+# 15-React-Projects 
+### This has 15 projects made by following a video by John.
+The react apps are (creation times):
 1. Birthday Reminder
 2. Worst Tours
 3. Dumb Reviews
