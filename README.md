@@ -7,4 +7,6 @@ The react apps are (creation times):
 4. Minimal FAQ
 5. Full Menu
 6. Tab View
-//screenshots to be attached after completion
+7. Slider for Reviews
+
+  //screenshots to be attached after completion
